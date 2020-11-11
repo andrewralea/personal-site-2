@@ -47,7 +47,7 @@
       content: "A Developer";
     }
     50%{
-      content: "A Musician";
+      content: "A Music Producer";
     }
     75%{
       content: "An Engineer";
@@ -88,4 +88,6 @@
     background-color: #48dbfb;
     color: #fff;
   }
+
+  
   
