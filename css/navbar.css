@@ -1,6 +1,6 @@
 .navbar {
     position: fixed;
-    background: linear-gradient(90deg, #22223B 0%, #4A4E69 100%);
+    background: transparent;
     width: 100%;
     padding: 30px 0;
     top: 0;
@@ -15,9 +15,12 @@
 }
 
 .navbar .logo {
+    background-color: #22223B;
     height: 32px;
     background-size: contain;
     color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
 }
 
 .menu-toggler {
